@@ -27,6 +27,7 @@ pub enum Network {
     /// Persistence `core` chain
     Persistence,
 
+
     /// Juno `juno` chain
     Juno,
 }
